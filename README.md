@@ -1,6 +1,7 @@
 # Predicting home prices in Ames, Iowa
 
-This project uses data from the Kaggle competition to predict housing prices in Ames, Iowa
+This project uses data from a Kaggle competition to predict housing prices in Ames, Iowa
+
 [Link to Kaggle site](https://www.kaggle.com/competitions/home-data-for-ml-course)
 ## Structure
 
